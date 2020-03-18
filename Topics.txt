@@ -5,3 +5,8 @@ if-else
 loops
 switch
 functions
+
+
+
+
+arrays
